@@ -85,3 +85,8 @@ This project demonstrates how data visualization techniques can be used to analy
 Histograms and bar charts are effective tools for summarizing and communicating insights from both categorical and continuous variables.
 
 The project helps build foundational skills in exploratory data analysis and data visualization using Python.
+
+
+Original Source - https://data.worldbank.org/indicator/SP.POP.TOTL
+
+
